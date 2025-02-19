@@ -1,24 +1,21 @@
-# Funnel-Analysis-Business-Optimization-Project
-An Excel-based project focused on problem-solving, funnel analysis, and business optimization through automation, data visualization, and decision-making.
+### **Project Title:**  
+**E-Store Funnel Analysis & Business Optimization**  
 
-# **Excel-Based Problem-Solving & Funnel Analysis Project**  
+### **Summary (1-Line):**  
+Comprehensive Excel-based analysis of E-Store’s home delivery service, optimizing order completion, customer retention, and delivery efficiency through data-driven insights.  
 
-## **Problem Statement**  
-Businesses struggle with **employee performance evaluation, bonus allocation, and process optimization** due to inefficient data handling and decision-making processes. This project addresses these challenges by leveraging **Excel automation, funnel analysis, and data visualization** to streamline operations and improve insights.  
+### **Problem Statement:**  
+E-Store aims to improve its **home delivery service efficiency, customer retention, and profitability**. By analyzing transaction data, the project identifies bottlenecks in **order fulfillment, customer acquisition, delivery operations, and discount strategies**, enabling **data-driven decision-making** for enhanced business performance.  
 
-## **Overview**  
-This project showcases my **Excel problem-solving skills and funnel analysis techniques**, completed as part of a **Beginner to Advanced Excel Course**. It includes **automated decision-making, business performance tracking, and interactive dashboards** to enhance efficiency.  
+### **Key Inclusions:**  
+- **Order Level Analysis:** Identifies order trends, slot-wise demand, and pricing patterns.  
+- **Completion Rate Analysis:** Evaluates order completion efficiency and influencing factors.  
+- **Customer Analysis:** Determines **Lifetime Value (LTV)** and acquisition efficiency.  
+- **Delivery Analysis:** Assesses delivery performance across time slots and areas.  
 
-## **Key Features**  
-- **Employee Evaluation & Bonus System:** Automated classification, bonus allocation, and termination decisions based on department, rating, and experience.  
-- **Funnel Analysis:** Tracked business workflows, identified drop-offs, and optimized decision-making processes.  
-- **Data Visualization:** Created **line, pie, and combo charts** with trendlines, formatted axes, and data labels for better insights.  
-- **Excel Automation:** Used **conditional logic, structured calculations, and dashboards** for real-world decision-making.  
+### **Deliverables:**  
+✔ **Excel Workbook** with calculations & visualizations 📊  
+✔ **Insight Report** with key takeaways & business recommendations 📑  
+✔ **Presentation Video** summarizing findings & strategy 🎥  
 
-## **Skills Gained**  
-✅ Problem-solving using data analytics  
-✅ Funnel analysis for business optimization  
-✅ Advanced Excel formulas & automation  
-✅ Data visualization & dashboarding  
-
-This project **demonstrates my ability to analyze, optimize, and automate business processes** using Excel. 🚀
+🚀 **Analysis Report & Excel File Attached**
