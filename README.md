@@ -1,9 +1,6 @@
 ### **Project Title:**  
 **E-Store Funnel Analysis & Business Optimization**  
 
-### **Summary (1-Line):**  
-Comprehensive Excel-based analysis of E-Store’s home delivery service, optimizing order completion, customer retention, and delivery efficiency through data-driven insights.  
-
 ### **Problem Statement:**  
 E-Store aims to improve its **home delivery service efficiency, customer retention, and profitability**. By analyzing transaction data, the project identifies bottlenecks in **order fulfillment, customer acquisition, delivery operations, and discount strategies**, enabling **data-driven decision-making** for enhanced business performance.  
 
