@@ -21,7 +21,4 @@ This project showcases my **Excel problem-solving skills and funnel analysis tec
 ✅ Advanced Excel formulas & automation  
 ✅ Data visualization & dashboarding  
 
-## **Analysis Report**  
-A **detailed analysis report** is attached, showcasing **data-driven insights, key findings, and optimization recommendations**.  
-
 This project **demonstrates my ability to analyze, optimize, and automate business processes** using Excel. 🚀
